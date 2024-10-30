@@ -1,3 +1,5 @@
+#!/usr/bin/env swift
+
 import Foundation
 
 let fileManager = FileManager.default

@@ -6,6 +6,7 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 
 ## By Date
 
+- [jj Squash Workflow](./jj/2024-10-30-jj-squash-workflow.md) (2024-10-30)
 - [Wasm Interaction Patterns](./wasm/2024-30-29-wasm-interaction-patterns.md) (2024-30-29)
 - [jj split](./jj/2024-10-27-jj-split.md) - 2024-10-27
 
@@ -13,9 +14,14 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 
 ## Jujutsu (jj)
 
+- [jj Squash Workflow](./jj/2024-10-30-jj-squash-workflow.md) (2024-10-30)
 - [jj split](./jj/2024-10-27-jj-split.md) - 2024-10-27
 
 ### Wasm
 
 - [Wasm Interaction Patterns](./wasm/2024-30-29-wasm-interaction-patterns.md) (2024-30-29)
+
+
+
+
 
