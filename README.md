@@ -6,6 +6,7 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 
 ## By Date
 
+- [tmux Setup](./tmux/2024-11-04-setup.md) (2024-11-04)
 - [Attribute Graph Debugging](./attribute-graph/2024-11-02-debugging.md) (2024-11-02)
 - [jj Squash Workflow](./jj/2024-10-30-jj-squash-workflow.md) (2024-10-30)
 - [Wasm Interaction Patterns](./wasm/2024-30-29-wasm-interaction-patterns.md) (2024-30-29)
@@ -25,6 +26,11 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 ### Attribute-Graph
 
 - [Debugging](./attribute-graph/2024-11-02-debugging.md) (2024-11-02)
+
+### Tmux
+
+- [Setup](./tmux/2024-11-04-setup.md) (2024-11-04)
+
 
 
 
