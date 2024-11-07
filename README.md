@@ -6,6 +6,7 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 
 ## By Date
 
+- [Attribute Graph](./swiftui/2024-11-07-attribute-graph.md) (2024-11-07)
 - [tmux Setup](./tmux/2024-11-04-setup.md) (2024-11-04)
 - [Attribute Graph Debugging](./attribute-graph/2024-11-02-debugging.md) (2024-11-02)
 - [jj Squash Workflow](./jj/2024-10-30-jj-squash-workflow.md) (2024-10-30)
@@ -31,6 +32,9 @@ Inspired by [@pdubroy](https://github.com/pdubroy/til) and [@simonw](https://git
 
 - [Setup](./tmux/2024-11-04-setup.md) (2024-11-04)
 
+### SwiftUI
+
+- [Attribute Graph](./swiftui/2024-11-07-attribute-graph.md) (2024-11-07)
 
 
 
